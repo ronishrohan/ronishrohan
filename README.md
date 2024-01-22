@@ -1,7 +1,9 @@
-<img align="left"  width="150" height="150" alt="Dani Akash" src="https://media.tenor.com/IHQIaehGY1cAAAAM/thousand-yard-stare-cat.gif"/>
+<img align="left"  width="150" height="150" alt="literally me" src="https://pnghq.com/wp-content/uploads/bingus-png-graphic.png"/>
 
 ## Hi there 👋
-im probabaly spending my time going insane over react
+
+im probabaly going insane over react 
+
 <!--
 **ronishrohan/ronishrohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
