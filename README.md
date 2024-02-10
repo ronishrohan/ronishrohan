@@ -1,6 +1,5 @@
-<img align="left"  width="150" height="150" alt="literally me" src="https://static.wikia.nocookie.net/vibalson/images/2/21/Bingus_collectible.png/revision/latest?cb=20210126235338"/>
 
-## Hi there 👋
+## Hello
 
 im probabaly going insane over react 
 
