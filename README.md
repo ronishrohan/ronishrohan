@@ -4,7 +4,7 @@
 im probabaly going insane over react 
 
 
-currently learning next.js
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ronishrohan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ronishrohan&theme=onedark&hide_border=false)<br/>
