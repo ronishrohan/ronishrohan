@@ -1,5 +1,2 @@
 
-## Hello
-
-im probabaly going insane over react 
-
+i make websites
