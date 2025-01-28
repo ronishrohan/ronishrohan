@@ -1,4 +1,4 @@
 
 i make websites
 
-https://biscuits.ronish.dev
+https://ronish.dev
