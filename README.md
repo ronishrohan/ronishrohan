@@ -1,5 +1,3 @@
 <samp>
-i make websites
-
-https://ronish.dev
+$mod+enter
 <samp>
