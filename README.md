@@ -1,5 +1,1 @@
-<samp>
-
-best in the business
-
-<samp>
+i design and build interfaces, agents, servers, anything that can exist on a computer
